@@ -13,6 +13,7 @@ body{
 
 h2{
     padding-top: 5px;
+    padding-left: 20px;
     color:white;
     font-size:medium;
 }
@@ -38,9 +39,9 @@ h2{
 }
 
 .form-outline{
-    width: 300px;
+    width: 330px;
     margin-left: 10vw;
-    margin-top: 1vh;
+    margin-top: 2.5vh;
 }
 
 .form1{
